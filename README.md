@@ -1,6 +1,6 @@
 ### Boas vidas ao meu perfil 👋
 
-Meu nome é Miuli 
+Meu nome é Mariane
 
 -Estou estudando na [Alura](https://www.alura.com.br)
 -Estou me desenvolvendo na linguagem JavaScript 
